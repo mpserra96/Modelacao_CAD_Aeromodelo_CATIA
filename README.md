@@ -28,7 +28,7 @@ Um dos desenhos técnicos incluídos corresponde à fuselagem, apresentando vist
 
 O projeto permitiu aplicar conceitos de modelação paramétrica, organização de conjuntos, normalização de dimensões, interpretação de perfis aerodinâmicos, integração de ficheiros externos, desenho técnico industrial e gestão de versões de projeto.
 
-A equipa concluiu o desenvolvimento de um modelo CAD completo de aeromodelo, com os principais subconjuntos estruturais representados e organizados. Embora o projeto não corresponda a uma validação aerodinâmica ou estrutural completa, constitui um trabalho relevante de conceção geométrica, montagem mecânica e documentação técnica.
+O grupo concluiu o desenvolvimento de um modelo CAD completo de aeromodelo, com os principais subconjuntos estruturais representados e organizados. Embora o projeto não corresponda a uma validação aerodinâmica ou estrutural completa, constitui um trabalho relevante de conceção geométrica, montagem mecânica e documentação técnica.
 
 **Conteúdos deste repositório:**
 
